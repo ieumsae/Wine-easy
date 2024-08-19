@@ -1,0 +1,6 @@
+Flask
+paddleocr
+pillow
+numpy
+mysql-connector-python
+python-dotenv
